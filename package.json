@@ -1,0 +1,20 @@
+{
+  "name": "osford-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mathieu#8823",
+  "license": "ISC",
+  "dependencies": {
+    "db": "^3.3.1",
+    "discord.js": "^12.5.3",
+    "humanize-duration": "^3.25.2",
+    "moment": "^2.29.1",
+    "parse-duration": "^1.0.0",
+    "test": "^0.6.0"
+  }
+}
